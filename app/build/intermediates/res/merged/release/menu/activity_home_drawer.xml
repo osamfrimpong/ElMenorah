@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Home" />
+
+        <item
+            android:id="@+id/nav_sermon"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Sermon" />
+
+    <item
+        android:id="@+id/nav_sex_in_your_closet"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Sex In your Closet" />
+
+        <item
+            android:id="@+id/nav_registration"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Registration" />
+        <item
+            android:id="@+id/nav_campus"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Campus" />
+        <item
+            android:id="@+id/nav_personality"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Personality" />
+    <item
+        android:id="@+id/nav_upcoming_events"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Upcoming Events" />
+
+    <item android:title="Creative Arts">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Poetry" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Drama" />
+            <item
+                android:id="@+id/nav_spoken_word"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Spoken Word" />
+            <item
+                android:id="@+id/nav_music"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Music" />
+            <item
+                android:id="@+id/nav_dance"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Dance" />
+            <item
+                android:id="@+id/nav_live_performance"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Live Performance" />
+        </menu>
+    </item>
+
+<item android:title="Partnered Ministries" >
+    <menu>
+    <item android:title="PLC Ministries"
+        android:icon="@drawable/ic_menu_camera"
+        android:id="@+id/plc_ministries" />
+
+    <item android:title="El Menorah Series"
+        android:icon="@drawable/ic_menu_camera"
+        android:id="@+id/el_menorah_series" />
+
+    <item android:title="ICGC Calvary Temple"
+        android:icon="@drawable/ic_menu_camera"
+        android:id="@+id/icgc" />
+    </menu>
+</item>
+    </group>
+</menu>

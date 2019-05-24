@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.schandorf.elmenorah.Fragments.UpdatesFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/divider"
+        android:weightSum="100">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="20"
+            android:background="@color/headerBg"
+            android:padding="10dp"
+            android:layout_marginBottom="1dp">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/elmenorah_home_ext"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        />
+        </RelativeLayout>
+ <android.support.v7.widget.RecyclerView
+     android:layout_width="match_parent"
+     android:id="@+id/homeRecyclerView"
+     android:background="#101112"
+     android:layout_height="0dp"
+     android:layout_weight="80"
+     android:paddingTop="10dp"/>
+
+    </LinearLayout>
+</FrameLayout>

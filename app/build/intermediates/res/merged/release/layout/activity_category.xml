@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.schandorf.elmenorah.Activities.CategoryActivity">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/hometoolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/categorySwipe">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/divider"
+        android:weightSum="100">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="25"
+            android:background="@color/headerBg"
+            android:layout_marginBottom="1dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/elmenorah_home_ext"
+                android:scaleType="centerCrop"
+                android:layout_centerInParent="true"
+                android:id="@+id/topImage"
+                />
+        </RelativeLayout>
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:id="@+id/categoryRecyclerView"
+            android:background="#101112"
+            android:layout_height="0dp"
+            android:layout_weight="75"
+            android:paddingTop="10dp"
+            />
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="75"
+            android:id="@+id/webView"
+            android:visibility="gone"
+            />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="75"
+           android:text="Tap To Reload"
+           android:gravity="center"
+           android:id="@+id/catergoryRefresh"
+           android:textColor="@color/white"
+           android:clickable="true"
+           android:visibility="gone"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="75"
+            android:text="Loading.. Please Wait"
+            android:gravity="center"
+            android:id="@+id/webViewLoad"
+            android:textColor="@color/white"
+            android:clickable="true"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+</android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

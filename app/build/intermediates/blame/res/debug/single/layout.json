@@ -1,0 +1,978 @@
+[
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\youtube_video_item.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\youtube_video_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_details.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\content_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\literature_layout_three.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\literature_layout_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_menu.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\794ade6b1433eda209ab7445d1583bd4835091d1\\output\\res\\layout\\player_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\ed48c76bc0519d7395128dde44dc53fa797e05c8\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\794ade6b1433eda209ab7445d1583bd4835091d1\\output\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_layout.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\progress_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_player_ui.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\794ade6b1433eda209ab7445d1583bd4835091d1\\output\\res\\layout\\default_player_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_layout.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\progress_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_updates.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_updates.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prayer_request.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_prayer_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\literature_layout_one.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\literature_layout_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_registration.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\youtube_video_item.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\youtube_video_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\literature_layout_one.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\literature_layout_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sermons.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_sermons.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\ed48c76bc0519d7395128dde44dc53fa797e05c8\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\ed48c76bc0519d7395128dde44dc53fa797e05c8\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_entertainment.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\default_player_ui.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\794ade6b1433eda209ab7445d1583bd4835091d1\\output\\res\\layout\\default_player_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_lit.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_lit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_details.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\content_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\ed48c76bc0519d7395128dde44dc53fa797e05c8\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_others.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_others.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\literature_layout_two.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\literature_layout_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\ed48c76bc0519d7395128dde44dc53fa797e05c8\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\literature_layout_three.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\literature_layout_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_player.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_page.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\activity_web_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_updates.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_updates.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_player.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_entertainment.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_registration.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\794ade6b1433eda209ab7445d1583bd4835091d1\\output\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_entertainment.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\7e0b59072ac182cee66dc0d7faff573aece7c063\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_lit.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_lit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_others.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_others.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_registration.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_menu.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\794ade6b1433eda209ab7445d1583bd4835091d1\\output\\res\\layout\\player_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_list_item.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\home_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\progress_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\d067cdbc5b8e1d28c8eda057a474fd7bff82bb9f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\literature_layout_two.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\literature_layout_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personality.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_personality.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_literature.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_literature.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_list_item.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\layout\\home_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\2c62f0727c5d17f22abc2e7000dc38664fce6827\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\009215625fa7e82af068b8a950f888b66c3be509\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCHANDORF\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\SCHANDORF\\.android\\build-cache\\8b178bd11a1dcc1544e4f270cda533a1c2aa1f39\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_literature.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\layout\\fragment_literature.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\14ff5aa6acb47706149aac65d1eaa56fbd18aac2\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\0e21271692f56533bbfad68fc40986e3ea6a2329\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Schandorf\\.android\\build-cache\\24b338a8728dbbecce8b6eb7de5af9bc4bc3e469\\output\\res\\layout\\notification_template_part_time.xml"
+    }
+]

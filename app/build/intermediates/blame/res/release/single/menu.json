@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_details.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\menu\\menu_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\home.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\navigation.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\navigation.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\home.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\ElMenorah\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_details.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\menu\\menu_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_personality_scroll.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\menu\\menu_personality_scroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\Schandorf\\Desktop\\DEV\\ANDApps\\ElMenorah\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    }
+]
